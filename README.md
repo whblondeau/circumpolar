@@ -11,7 +11,7 @@ Explanations in this section are not legally binding. The official license is au
 
 The stories I write about the world herein detailed remain by default under the ordinary form of copyright: all rights reserved. To the extent determined by applicable law, that applies to the events, the characters, and the verbal content of the stories. Any deviation from that will be noted in the story's published form.
 
-The background material in this repository, on the other hand, is released under a modified [Creative Commons Attribution License](http://en.wikipedia.org/wiki/Creative_Commons_license). The modifications to this license primarily establish this repository's primacy as the canonical representation of described world, and the specific role of the GitHub pull request in identifying cononical contributions.
+The background material in this repository, on the other hand, is released under a modified [Creative Commons Attribution License](http://en.wikipedia.org/wiki/Creative_Commons_license). The modifications to this license primarily establish this repository's primacy as the canonical representation of described world, and the specific role of the GitHub pull request in identifying canonical contributions.
 
 The license does not inhibit individuals from creating content—either creative or explanatory—pertaining to the world defined in this repository, and it asserts no specific rights over such derivative content. In other words, release of this world's background content is intended to establish a [shared universe](http://en.wikipedia.org/wiki/Shared_universe).
 
